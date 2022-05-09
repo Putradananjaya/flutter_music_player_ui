@@ -1,16 +1,7 @@
-# flutter_kekidungan_ui
+# Mobile Interface Flutter - Music Player
 
-A new Flutter project.
+## Introduction
+The mobile display has two pages, one for the main menu page which will display all kinds of songs with existing categories. then on the detail page displays the title, singer, and duration. The interesting thing about the appearance of this application is the animation when sliding from one page to another.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Music Player App Final UI
+![UI MUSIC PLAYER](https://user-images.githubusercontent.com/38379100/167339217-3c5d9fdd-41be-48da-90b7-5fe43de60f7d.png)
